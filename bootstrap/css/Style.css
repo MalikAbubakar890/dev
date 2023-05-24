@@ -130,27 +130,13 @@ margin: 0 6px 0 0;
 font-family: Hellix;
 font-size: 20px;
 font-weight: 500;
-font-stretch: normal;
-font-style: normal;
-line-height: normal;
-letter-spacing: normal;
 text-align: right;
 color: #f5f4f7;
-}
-.VR{
-width: 4.7px;
-height: 9.5px;
-flex-grow: 0;
-margin: 19.9px 23.3px 10.6px 12.1px;
-transform: rotate(45deg);
-border: solid 1.2px #f5f4f7;
 }
 section {  /*HomePage Section Spacing*/
 margin-bottom: 20px;
 }
-.box {  /*HomePage Section 1 Box*/
-display:inline-block;
-}
+
 
 
 
