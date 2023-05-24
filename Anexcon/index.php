@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 	<title>New site</title>
 </head>
+<link rel="stylesheet" 
+href="bootstrap/dist/css/Anexcon.css">
 <body>
-<h1>New site content</h1>
+
 </body>
 </html>
