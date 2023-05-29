@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php include 'include/head.php';?>
-<link rel="stylesheet" href="bootstrap/css/style.css">
+<link rel="stylesheet" href="bootstrap/css/Style.css">
 <body>
 <section class="HPS1">
         Anexcon unlocks the potential of your workforce, just as it has done for thousands of other organizations
