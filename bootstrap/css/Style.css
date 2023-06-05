@@ -482,6 +482,305 @@ text-decoration: none;
         top: 0;
         width: 100%;
       }
+/* Hover DropDown 1 */
+      .HD-Container{
+        max-width: 568px;
+          height: 360px;
+          margin: auto;
+          background-color: #fff;
+      }
+      .side{
+          display:flex;
+          flex-wrap:wrap;
+          margin: auto;
+      }
+      .block {
+            padding: 70px 0;
+      }
+      .block-box {
+          width: 15%;
+          padding: 0 15px;
+      }
+      /*Products Left Integration Block*/
+      .PIB1{
+        width: 200px;
+        height: 250px;
+        margin-top: 15px;
+        margin-left: 20px;
+      }
+      /*HomePage Right Integration Block*/
+      .PIB2{
+          width: 200px;
+          height: 250px;
+          margin-top: 15px;
+          margin-left: 200px;
+      }
+      /*HomePage Link Content Integration Block*/
+      .PIB3{
+          width: 520px;
+          height: 40px;
+          margin-top: 290px;
+          margin-left: -210px;
+      }
+      /*HomePage Link Integration Block*/
+      .PIB4{
+        width: 90px;
+        height: 21px;
+        margin-top: 300px;
+        margin-left: 74px;
+      }
+      /*Header Drop Down Products Heading*/
+      .HDPH {
+          width: 139px;
+          height: 13px;
+          margin-bottom: 8px;
+          font-family: Hellix;
+          font-size: 14px;
+          font-weight: 500;
+          color: #000;
+          text-decoration: none;
+      }
+      .HDPH:hover{
+        color:#10377a;
+      }
+      /*Header Drop Down Products Content*/
+      .HDPC {
+        font-family: Hellix;
+        font-size: 10px;
+        color: #b0b0b0;
+      }
+      /*Header Drop Down Products Heading 2*/
+      .HDPH2 {
+        font-family: Hellix;
+        font-size: 12px;
+        font-weight: 500;
+        color: #000;
+      }
+      /*Header Drop Down Products Content 2*/
+      .HDPC2 {
+        margin-top: -14px;
+        font-family: Hellix;
+        font-size: 12px;
+        text-align: left;
+        color: #b0b0b0;
+      }
+      .HDPH2L {
+        font-family: Hellix;
+        font-size: 16px;
+        font-weight: 500;
+        color: #10377a;
+        text-decoration: none;
+      }
+      /*HomePage Section Features Icons*/
+      .HPFI{
+        width: 15px;
+        height: 15px;
+        opacity: 1.0;
+      }
+      /*HomePage Section Features Icon Background*/
+      .HPFIB{
+        width: 26px;
+        height: 26px;
+        margin-right: 9px;
+        margin-top: 5px;
+        background-color: #fff;
+        border-radius: 25px;
+        display: flex;
+        justify-Content: center;
+        align-items: center;
+      }
+      .I-Container {
+        display: flex;
+        margin:auto;
+      }
+      .I-Content{
+        margin-top: 5px;
+      } 
+      .D1arrow {
+        border: Solid 1px #10377a;
+        border-width: 0 1.5px 1.5px 0;
+        margin-left: 85px;
+        margin-top: -10.5px;
+        display: inline-block;
+        padding: 2px;
+        width: 2px;
+        height: 2px;
+      }
+      /* Hover DropDown 2 */
+      .HD2-Container{
+        max-width: 474px;
+        height: 360px;
+        margin: auto;
+        background-color: #fff;
+    }
+    /*Products Left Integration Block*/
+    .SIB1{
+      width: 200px;
+      height: 320px;
+      margin-top: 15px;
+    }
+    /*HomePage Right Integration Block*/
+    .SIB2{
+        width: 200px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 130px;
+    }
+    /*HomePage Link Content Integration Block*/
+    .SIB3{
+        width: 200px;
+        height: 135px;
+        margin-top: 150px;
+        margin-left: 30px;
+    }
+    /*Header Drop Down Products Heading*/
+    .HDSH {      
+      
+      font-family: Hellix;
+      font-size: 12px;
+      font-weight: 500;
+      color: #000;
+    }
+    .HDSL {
+      width: 51px;
+      height: 14px;
+      margin-left: 2px;
+      margin-bottom: 24px;
+      font-family: Hellix;
+      font-size: 12px;
+      font-weight: 500;
+      text-align: left;
+      color: #000;
+      text-decoration: none;
+    }
+    .HDSL2 {
+      
+      font-family: Hellix;
+      font-size: 16px;
+      font-weight: 500;
+      color: #000;
+      text-decoration: none;
+    }
+    .HDSL:hover,.HDSL2:hover{
+      color:#10377a;
+    }
+    /*HomePage Section Features Icons*/
+    .HPFI{
+      width: 18px;
+      height: 18px;
+      opacity: 1.0;
+    }
+    /*HomePage Section Features Icon Background*/
+    .HPFIB{
+      width: 25px;
+      height: 25px;
+      margin-right: 7px;
+      margin-bottom: 10px;
+      background-color: #fff;
+      border-radius: 25px;
+      display: flex;
+      justify-Content: center;
+      align-items: center;
+    }
+      /* Hover DropDown 3 */
+      .HD3-Container{
+        max-width: 474px;
+        height: 234px;
+        margin: auto;
+        background-color: #fff;
+    }
+    .side{
+        display:flex;
+        flex-wrap:wrap;
+        margin: auto;
+    }
+    .block {
+          padding: 70px 0;
+    }
+    .block-box {
+        width: 15%;
+        padding: 0 15px;
+    }
+    /*Products Left Integration Block*/
+    .RIB1{
+      width: 170px;
+      height: 210px;
+      margin-top: -5px;
+      margin-left: -5px;
+    }
+    /*HomePage Right Integration Block*/
+    .RIB2{
+        width: 254px;
+        height: 108px;
+        margin-top: 20px;
+        margin-left: 75px;
+    }
+    /*Header Drop Down Products Heading*/
+    .HDRH {      
+      font-family: Hellix;
+      font-size: 12px;
+      font-weight: 500;
+      color: #000;
+    }
+    .HDRC{
+      margin-left: 8px;
+      font-family: Hellix;
+      font-size: 12px;
+      color: #b0b0b0;
+    }
+    .RIB2 h4{
+      margin-bottom: -5px;
+    }
+    .HDRL {
+      width: 57px;
+      height: 14px;
+      margin-left: 2px;
+      margin-bottom: 24px;
+      font-family: Hellix;
+      font-size: 12px;
+      font-weight: 500;
+      text-align: left;
+      color: #000;
+      text-decoration: none;
+    }
+    .HDRL2 {
+      font-family: Hellix;
+      font-size: 12px;
+      font-weight: 500;
+      color: #10377a;
+      text-decoration: none;
+    }
+    .HDRL:hover{
+      color:#10377a;
+    }
+    /*HomePage Section Features Icons*/
+    .HPFI{
+      width: 18px;
+      height: 18px;
+      opacity: 1.0;
+    }
+    /*HomePage Section Features Icon Background*/
+    .HPFIB{
+      width: 25px;
+      height: 25px;
+      margin-right: 7px;
+      margin-bottom: 10px;
+      background-color: #fff;
+      border-radius: 25px;
+      display: flex;
+      justify-Content: center;
+      align-items: center;
+    }
+    .D3arrow {
+      border: Solid 1px #10377a;
+      border-width: 0 1.5px 1.5px 0;
+      margin-top: -10.5px;
+      margin-left: 2px;
+      display: inline-block;
+      padding: 1px;
+      width: 1px;
+      height: 1px;
+    }
     
     
     
