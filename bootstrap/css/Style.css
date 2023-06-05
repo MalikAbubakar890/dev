@@ -689,18 +689,6 @@ text-decoration: none;
         margin: auto;
         background-color: #fff;
     }
-    .side{
-        display:flex;
-        flex-wrap:wrap;
-        margin: auto;
-    }
-    .block {
-          padding: 70px 0;
-    }
-    .block-box {
-        width: 15%;
-        padding: 0 15px;
-    }
     /*Products Left Integration Block*/
     .RIB1{
       width: 170px;
