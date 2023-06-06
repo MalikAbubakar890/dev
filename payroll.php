@@ -30,14 +30,17 @@
     <div align='center'>
 
     <a class="button button-right" color:"blue">
-     Requests
-</a>
+        Salaries
+    </a>
     <a class="button">
-        Status
+        Taxes
     </a>
 
     <a class="button button-left">
-        Leave track
+        Disbursement
+    </a>
+    <a class="button button-left">
+        Bank Integration
     </a>
 </div>
     <!-- png -->

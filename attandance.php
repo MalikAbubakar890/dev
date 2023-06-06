@@ -30,14 +30,14 @@
     <div align='center'>
 
     <a class="button button-right" color:"blue">
-     Requests
+     Check In / Check Out
 </a>
     <a class="button">
-        Status
+        Attendance Overview
     </a>
 
     <a class="button button-left">
-        Leave track
+        Payroll Alignment
     </a>
 </div>
     <!-- png -->

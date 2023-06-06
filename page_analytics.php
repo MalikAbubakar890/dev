@@ -30,14 +30,14 @@
     <div align='center'>
 
     <a class="button button-right" color:"blue">
-     Requests
+     Tasks
 </a>
     <a class="button">
-        Status
+        Analytics
     </a>
 
     <a class="button button-left">
-        Leave track
+        Payments Reports
     </a>
 </div>
     <!-- png -->
