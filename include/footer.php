@@ -4,9 +4,9 @@
 <body>
 <footer class="footer">
         <div class="container">
-        <div class="row">
+        <div class="row-footer">
             <!--Footer 1st Column-->
-        <div class="footer-col">
+        <div style="width: 10%;" class="footer-col">
         <h1 class="FH">ANEXCON</h1>
         <ul>
         <li><a href="#">About us</a></li>

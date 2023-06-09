@@ -47,27 +47,26 @@
                       </li>
                       <li class="nav-item">
                         <!-- method 2 -->
-                        <div class="media text-muted pt-3">
+                        <div class="navbar-brand d-flex align-items-center ">
 
                           <div class="circle">
                             <img src="Skating.svg" alt="" class="image-inside-circle">
                           </div>
-                          <p>
-                            <span class="ms-2 d-block"
-                              style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                              <a class="nav-link" href="#" style="padding: 0 0.5rem;">Time and Attendance</a>
-                            </span>
+                          <span class="ms-2"
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            <a class="nav-link" href="#">Time and Attendance</a>
+                          </span>
 
-                            <span class="ml-2" style="font-family: 'Hellix';
+
+                        </div>
+                        <p style="font-family: 'Hellix';
                                 font-style: normal;
                                 font-weight: 400;
                                 font-size: 10px;
                                 line-height: 12px;
-                                color: #B0B0B0; ">Automate time tracking for streamlined efficiency.
-                            </span>
-                          </p>
-                          </p>
-                        </div>
+
+                                color: #B0B0B0; margin-left:15%">Automate time tracking for streamlined efficiency.
+                        </p>
                       </li>
                       <li class="nav-item">
                         <div class="navbar-brand d-flex align-items-center ">
@@ -115,7 +114,7 @@
                               font-size: 10px;
                               line-height: 12px;
 
-                              color: #B0B0B0; margin-left:15%">Transform raw data into actionable business insights.
+                              color: #B0B0B0; margin-left:15%">Transform raw data into actionable <br>business insights.
                         </p>
                       </li>
                       <li class="nav-item">
@@ -126,7 +125,7 @@
                           </div>
                           <span class="ms-2"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#">Recruitment and Applicant Tracking</a>
+                            <a class="nav-link" href="#">Recruitment and Applicant <br>Tracking</a>
                           </span>
 
 
@@ -136,12 +135,11 @@
                               font-weight: 400;
                               font-size: 10px;
                               line-height: 12px;
-
-                              color: #B0B0B0; margin-left:15%">Simplify recruitment with our comprehensive ATS system.
+                              color: #B0B0B0; margin-left:15%">Simplify recruitment with our <br>comprehensive ATS system.
                         </p>
                       </li>
                       <li class="nav-item">
-                        <div class="navbar-brand d-flex align-items-center ">
+                        <div style="margin-top:-17px" class="navbar-brand d-flex align-items-center ">
 
                           <div class="circle">
                             <img src="Skating.svg" alt="" class="image-inside-circle">
@@ -159,15 +157,15 @@
                               font-size: 10px;
                               line-height: 12px;
 
-                              color: #B0B0B0; margin-left:15%">Effortlessly manage payroll with integrated payroll software.
+                              color: #B0B0B0; margin-left:15%">Effortlessly manage payroll with<br> integrated payroll software.
                         </p>
                       </li>
                     </ul>
                   </div>
                 </div>
                 <div class="container overflow-hidden " style="
-                        background: #F7F7FA;
-                        border-radius: 4px; margin-bottom:2%;">
+                        
+                        border-radius: 4px; margin-bottom:2%; margin-top:-70px; margin-left:-10px;">
                   <div class="row gy-5">
                     <div class="col-8">
                       <div class="p-3 ">
@@ -176,14 +174,14 @@
                                             font-weight: 500;
                                             font-size: 12px;
                                             line-height: 14px;
-
+                                            margin-top:10px;
                                             color: #000000;">App Integration</p>
                         <p style="font-family: 'Hellix';
                                             font-style: normal;
                                             font-weight: 400;
                                             font-size: 12px;
                                             line-height: 14px;
-
+                                            margin-top:-10px;
                                             color: #B0B0B0;">Smooth integration with the software you love using</p>
                       </div>
                     </div>
@@ -428,7 +426,7 @@
                           line-height: 14px;
 
                           color: #000000;">ANEXCON LIBRARY</span>
-                    <div class="row">
+                    <div style="margin-left:1px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -436,7 +434,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Templates</a>
                           </span>
 
@@ -446,7 +444,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -454,7 +452,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Podcasts</a>
                           </span>
                         </p>
@@ -463,7 +461,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -471,7 +469,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Interviews</a>
                           </span>
 
@@ -481,7 +479,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -489,7 +487,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">NewsLetter</a>
                           </span>
                         </p>
