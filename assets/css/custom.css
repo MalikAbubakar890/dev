@@ -1,0 +1,86 @@
+.navbar {
+    position: sticky;
+    top: 0;
+  }
+
+  
+  header {
+    background-color: white;
+    
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+
+
+.dropdown-menu-first {
+  position: absolute;
+  width: 568px;
+  max-width: 90vw; /* Responsive width */
+  height: auto;
+  top: 100%; /* Position below the dropdown trigger */
+  background: white;
+  box-shadow: 2px 3px 5px #999;;
+}
+.dropdown-menu-two {
+  position: absolute;
+  width: 474px;
+  max-width: 90vw; /* Responsive width */
+  height: auto;
+  top: 100%; /* Position below the dropdown trigger */
+  background: white;
+  box-shadow: 2px 3px 5px #999;;
+}
+.dropdown-menu-three{
+  position: absolute;
+  width: 474px;
+  left: 240px;
+  max-width: 90vw; /* Responsive width */
+  height: auto;
+  top: 100%; /* Position below the dropdown trigger */
+  background: white;
+  box-shadow: 2px 3px 5px #999;;
+}
+
+@media screen and (min-width: 992px){
+  .navbar .dropdown-menu {
+   border: none;
+  /* background-color: #10377a; */
+  }}
+  .circle {
+      background-color: #F0F0F5;
+      width: 21px; /* Adjust the width and height to your desired size */
+      height: 21px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .image-inside-circle {
+      max-width: 65%;
+      max-height: 65%;
+      display: block;
+      margin: auto;
+    }
+    .EmployeeSelfService .nav-link:hover + .circle .image-inside-circle  {
+          filter: invert(15%) sepia(51%) saturate(2926%) hue-rotate(207deg) brightness(96%) contrast(96%);
+      }
+      .nav-link {
+          color: black;
+      }
+      .nav-link:hover + .circle .image-inside-circle,
+      .circle .image-inside-circle:hover {
+          filter: invert(15%) sepia(51%) saturate(2926%) hue-rotate(207deg) brightness(96%) contrast(96%);
+      }
+
+      .list-item {
+      font-family: 'Hellix';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      color: #000000;
+      padding-bottom:10px;
+      }
+
