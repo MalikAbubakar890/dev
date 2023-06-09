@@ -218,15 +218,14 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
               <div class="container dropdown-menu-two">
                 <div class="row gx-5">
-                  <div class="col-6">
+                  <div style="margin-top:15px"class="col-6">
                     <span class="text-uppercase " style="font-family: 'Hellix';
                           font-style: normal;
                           font-weight: 500;
                           font-size: 12px;
                           line-height: 14px;
-
                           color: #000000;">INDUSTRY</span>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -234,7 +233,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Agencies</a>
                           </span>
 
@@ -244,7 +243,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -252,7 +251,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Professional Service</a>
                           </span>
                         </p>
@@ -261,7 +260,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -269,7 +268,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Technology</a>
                           </span>
 
@@ -279,7 +278,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -287,7 +286,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Bank And Credit Union</a>
                           </span>
                         </p>
@@ -296,7 +295,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -304,7 +303,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Fintech</a>
                           </span>
 
@@ -314,7 +313,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -322,7 +321,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Life Science</a>
                           </span>
                         </p>
@@ -331,7 +330,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -339,7 +338,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Insurance</a>
                           </span>
 
@@ -349,7 +348,7 @@
 
 
                     </div>
-                    <div class="row">
+                    <div style="margin-left:1px; margin-top:-10px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -357,7 +356,7 @@
                         </div>
                         <p>
                           <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px; margin-top:3px; margin-bottom:-10px">
                             <a class="nav-link" href="#" style="padding: 0 0.5rem;">Digital Agencies</a>
                           </span>
                         </p>
@@ -374,7 +373,7 @@
                       font-weight: 500;
                       font-size: 12px;
 
-                      color: #000000; margin-top: 2%;">COMPANY SIZE</p>
+                      color: #000000; margin-top: 17px; margin-left:-15px">COMPANY SIZE</p>
                     <div class="row">
 
 
@@ -392,7 +391,7 @@
                       font-size: 12px;
                       line-height: 14px;
 
-                      color: #000000; margin-top: 25%;">Role</p>
+                      color: #000000; margin-top: 17px; margin-left:-15px">Role</p>
                     <div class="row ">
 
                       <ul class="list-unstyled">
@@ -418,7 +417,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
             <div class="container dropdown-menu-three">
                 <div class="row gx-5">
-                  <div class="col-4">
+                  <div style="margin-top:10px" class="col-4">
                     <span class="text-uppercase " style="font-family: 'Hellix';
                           font-style: normal;
                           font-weight: 500;
@@ -426,7 +425,7 @@
                           line-height: 14px;
 
                           color: #000000;">ANEXCON LIBRARY</span>
-                    <div style="margin-left:1px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -444,7 +443,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px" class="row">
+                    <div style="margin-left:1px;" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -461,7 +460,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px" class="row">
+                    <div style="margin-left:1px;" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -479,7 +478,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px" class="row">
+                    <div style="margin-left:1px;" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
