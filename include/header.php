@@ -41,7 +41,7 @@
                                 font-size: 10px;
                                 line-height: 12px;
 
-                                color: #B0B0B0; margin-left:15%">Berad spesetev. Krosav nydoment, parafän.
+                                color: #B0B0B0; margin-left:15%">Revolutionize HR management with self-service solutions.
                         </p>
 
                       </li>
@@ -55,7 +55,7 @@
                           <p>
                             <span class="ms-2 d-block"
                               style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                              <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                              <a class="nav-link" href="#" style="padding: 0 0.5rem;">Time and Attendance</a>
                             </span>
 
                             <span class="ml-2" style="font-family: 'Hellix';
@@ -63,7 +63,7 @@
                                 font-weight: 400;
                                 font-size: 10px;
                                 line-height: 12px;
-                                color: #B0B0B0; ">Berad spesetev. Krosav nydoment, parafän.
+                                color: #B0B0B0; ">Automate time tracking for streamlined efficiency.
                             </span>
                           </p>
                           </p>
@@ -77,7 +77,7 @@
                           </div>
                           <span class="ms-2"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#">Employee Self-Service</a>
+                            <a class="nav-link" href="#">Performance Management</a>
                           </span>
 
 
@@ -88,7 +88,7 @@
                               font-size: 10px;
                               line-height: 12px;
 
-                              color: #B0B0B0; margin-left:15%">Berad spesetev. Krosav nydoment, parafän.
+                              color: #B0B0B0; margin-left:15%">Maximize team performance through effective performance management.
                         </p>
                       </li>
                     </ul>
@@ -104,7 +104,7 @@
                           </div>
                           <span class="ms-2"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#">Employee Self-Service</a>
+                            <a class="nav-link" href="#">Analytics and Reporting</a>
                           </span>
 
 
@@ -115,7 +115,7 @@
                               font-size: 10px;
                               line-height: 12px;
 
-                              color: #B0B0B0; margin-left:15%">Berad spesetev. Krosav nydoment, parafän.
+                              color: #B0B0B0; margin-left:15%">Transform raw data into actionable business insights.
                         </p>
                       </li>
                       <li class="nav-item">
@@ -126,7 +126,7 @@
                           </div>
                           <span class="ms-2"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#">Employee Self-Service</a>
+                            <a class="nav-link" href="#">Recruitment and Applicant Tracking</a>
                           </span>
 
 
@@ -137,7 +137,7 @@
                               font-size: 10px;
                               line-height: 12px;
 
-                              color: #B0B0B0; margin-left:15%">Berad spesetev. Krosav nydoment, parafän.
+                              color: #B0B0B0; margin-left:15%">Simplify recruitment with our comprehensive ATS system.
                         </p>
                       </li>
                       <li class="nav-item">
@@ -148,7 +148,7 @@
                           </div>
                           <span class="ms-2"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#">Employee Self-Service</a>
+                            <a class="nav-link" href="#">Payroll</a>
                           </span>
 
 
@@ -159,7 +159,7 @@
                               font-size: 10px;
                               line-height: 12px;
 
-                              color: #B0B0B0; margin-left:15%">Berad spesetev. Krosav nydoment, parafän.
+                              color: #B0B0B0; margin-left:15%">Effortlessly manage payroll with integrated payroll software.
                         </p>
                       </li>
                     </ul>
@@ -237,7 +237,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Agencies</a>
                           </span>
 
                         </p>
@@ -255,7 +255,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Professional Service</a>
                           </span>
                         </p>
                         </p>
@@ -272,42 +272,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
-                          </span>
-
-                        </p>
-                        </p>
-                      </div>
-
-
-                    </div>
-                    <div class="row">
-                      <div class="media text-muted pt-3">
-
-                        <div class="circle">
-                          <img src="Skating.svg" alt="" class="image-inside-circle">
-                        </div>
-                        <p>
-                          <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
-                          </span>
-                        </p>
-                        </p>
-                      </div>
-
-
-                    </div>
-                    <div class="row">
-                      <div class="media text-muted pt-3">
-
-                        <div class="circle">
-                          <img src="Skating.svg" alt="" class="image-inside-circle">
-                        </div>
-                        <p>
-                          <span class="ms-2 d-block"
-                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Technology</a>
                           </span>
 
                         </p>
@@ -325,7 +290,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Bank And Credit Union</a>
                           </span>
                         </p>
                         </p>
@@ -342,7 +307,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Fintech</a>
                           </span>
 
                         </p>
@@ -360,7 +325,42 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Life Science</a>
+                          </span>
+                        </p>
+                        </p>
+                      </div>
+
+
+                    </div>
+                    <div class="row">
+                      <div class="media text-muted pt-3">
+
+                        <div class="circle">
+                          <img src="Skating.svg" alt="" class="image-inside-circle">
+                        </div>
+                        <p>
+                          <span class="ms-2 d-block"
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Insurance</a>
+                          </span>
+
+                        </p>
+                        </p>
+                      </div>
+
+
+                    </div>
+                    <div class="row">
+                      <div class="media text-muted pt-3">
+
+                        <div class="circle">
+                          <img src="Skating.svg" alt="" class="image-inside-circle">
+                        </div>
+                        <p>
+                          <span class="ms-2 d-block"
+                            style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Digital Agencies</a>
                           </span>
                         </p>
                         </p>
@@ -376,7 +376,7 @@
                       font-weight: 500;
                       font-size: 12px;
 
-                      color: #000000; margin-top: 2%;">INDUSTRY</p>
+                      color: #000000; margin-top: 2%;">COMPANY SIZE</p>
                     <div class="row">
 
 
@@ -427,7 +427,7 @@
                           font-size: 12px;
                           line-height: 14px;
 
-                          color: #000000;">INDUSTRY</span>
+                          color: #000000;">ANEXCON LIBRARY</span>
                     <div class="row">
                       <div class="media text-muted pt-3">
 
@@ -437,7 +437,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Templates</a>
                           </span>
 
                         </p>
@@ -455,7 +455,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Podcasts</a>
                           </span>
                         </p>
                         </p>
@@ -472,7 +472,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Interviews</a>
                           </span>
 
                         </p>
@@ -490,7 +490,7 @@
                         <p>
                           <span class="ms-2 d-block"
                             style="font-family: 'Hellix'; font-style: normal; font-weight: 500; font-size: 14px; line-height: 17px;">
-                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">Employee Self-Service</a>
+                            <a class="nav-link" href="#" style="padding: 0 0.5rem;">NewsLetter</a>
                           </span>
                         </p>
                         </p>

@@ -18,7 +18,7 @@
   position: absolute;
   width: 568px;
   max-width: 90vw; /* Responsive width */
-  height: auto;
+  height: 360px;
   top: 100%; /* Position below the dropdown trigger */
   background: white;
   box-shadow: 2px 3px 5px #999;;
@@ -27,7 +27,7 @@
   position: absolute;
   width: 474px;
   max-width: 90vw; /* Responsive width */
-  height: auto;
+  height: 360px;
   top: 100%; /* Position below the dropdown trigger */
   background: white;
   box-shadow: 2px 3px 5px #999;;
@@ -37,7 +37,7 @@
   width: 474px;
   left: 240px;
   max-width: 90vw; /* Responsive width */
-  height: auto;
+  height: 234px;
   top: 100%; /* Position below the dropdown trigger */
   background: white;
   box-shadow: 2px 3px 5px #999;;
@@ -50,8 +50,8 @@
   }}
   .circle {
       background-color: #F0F0F5;
-      width: 21px; /* Adjust the width and height to your desired size */
-      height: 21px;
+      width: 26px; /* Adjust the width and height to your desired size */
+      height: 26px;
       border-radius: 50%;
       display: flex;
       align-items: center;
