@@ -1,69 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <link
-            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-            rel="stylesheet"
-            integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
-            crossorigin="anonymous"
-        >
-        <style>
-      .circle {
-        background-color: #F0F0F5;
-        width: 50px; /* Adjust the width and height to your desired size */
-        height: 50px;
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-      
-      .image-inside-circle {
-        max-width: 65%;
-        max-height: 65%;
-        display: block;
-        margin: auto;
-      }
-      body {
-        font-family: Hellix, Arial, sans-serif;
-      }
-
-      a {
-        font-family: Hellix, Arial, sans-serif;
-      }
-      .nav-link.active {
-  position: relative;
-  background-color: transparent;
-  color: inherit;
-  border-radius: 2px;
-}
-
-.nav-link.active::after {
-  content: "";
-  position: absolute;
-  bottom: -3px; /* Adjust the value to control the length of the underline */
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  background-color: #10377A;
-  border-radius: 2px;
-  
-}
-     
-.nav-tabs .nav-link {
-  margin-bottom:0;
-  border: none;
-}
-
-        </style>
-        <title>test</title>
-    </head>
-    <body>
-        <main role="main">
+<?php include 'include/head.php';?>
+<body>
+<?php include 'include/header.php';?>
+<main role="main">
             <div class="container col-xxl-8 px-4 py-5">
                 <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                     <div class="col-10 col-sm-8 col-lg-5">
@@ -79,9 +19,9 @@
                     <div class="col-lg-7">
                         <div class="navbar-brand d-flex align-items-center">
                             <div class="circle">
-                                <img src="Group.png" alt="" class="image-inside-circle">
+                                <img src="Mask group.png" alt="" class="image-inside-circle">
                             </div>
-                            <span class="ms-2" style="font-size: 27px; font-weight: 500; line-height: 32px; letter-spacing: 0em; text-align: left;">Analytics and Reporting</span>
+                            <span class="ms-2" style="font-size: 27px; font-weight: 500; line-height: 32px; letter-spacing: 0em; text-align: left;">Recruitment and Applicant tracking</span>
                         </div>
                         <p style="font-style: normal;font-weight: 500; font-size: 60px; line-height: 72px;">Berad spesetev. Krosav nydoment, parafän.</p>
                         <p class="lead" style="color: #B0B0B0;">
@@ -129,17 +69,22 @@
                 <li class="nav-item" role="presentation">
                   <a class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true" style="font-weight: 500;
                   font-size: 30px;
-                color: #10377A;">Tasks</a>
+                color: #10377A;">Actions</a>
                 </li>
                 <li class="nav-item" role="presentation">
                   <a class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false" style="font-weight: 500;
                   font-size: 30px;
-                 ; color: #10377A;">Analytics</a>
+                 ; color: #10377A;">Stages</a>
                 </li>
                 <li class="nav-item" role="presentation">
                   <a class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false" style="font-weight: 500;
                   font-size: 30px;
-                   color: #10377A;">Payments Reports</a>
+                   color: #10377A;">Notification</a>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false" style="font-weight: 500;
+                    font-size: 30px;
+                     color: #10377A;">Job Form</a>
                 </li>
               </ul>
               <div class="tab-content" id="pills-tabContent">
@@ -246,7 +191,6 @@
           </div>
          
         </main>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script>
-    </html>
+        <?php include 'include/footer.php';?>
+</body>
+</html>
