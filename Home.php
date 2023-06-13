@@ -54,7 +54,7 @@
 			<div class="col-md-6">
 				<div class="content_manage">
 					<h2>The Ultimate Performance Management Platform for Employee Success</h2>
-					<p>Discover how organizations utilize Anexcon to enhance performance and foster employee engagement for optimal outcomes.
+					<p style="margin-top:15px">Discover how organizations utilize Anexcon to enhance performance and foster employee engagement for optimal outcomes.
 					<br>Learn how Anexcon assists businesses in building a culture of continuous feedback and development. <br>
 					Find out how Anexcon's performance management platforms differ from other similar platforms on the market.</p>
 				</div>
