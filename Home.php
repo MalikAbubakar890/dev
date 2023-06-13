@@ -7,16 +7,16 @@
     <div class="hero-image" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 580px; padding: 100px;">
     	<div class="container-homepage">
 			<div class="todo-anim">
-				<img src="assets/img/hero/todo-animation.png">
+				<img src="assets/img/hero/A1.gif" loop autoplay>
 			</div>
 			<div class="multiple-feat">
-				<img src="assets/img/hero/Multiple-feature.png">
+				<img src="assets/img/hero/B2.gif" loop autoplay>
 			</div>
 			<div class="financial">
-				<img src="assets/img/hero/Financial.png">
+				<img src="assets/img/hero/C3.gif" loop autoplay>
 			</div>
 			<div class="team-perfomances">
-				<img src="assets/img/hero/team-perfomances.png">
+				<img src="assets/img/hero/D4.gif" loop autoplay>
 			</div>
 	    	<div class="text-hero">
 				<h2>Empower</h2>
@@ -55,7 +55,7 @@
 				<div class="content_manage">
 					<h2>The Ultimate Performance Management Platform for Employee Success</h2>
 					<p style="margin-top:15px">Discover how organizations utilize Anexcon to enhance performance and foster employee engagement for optimal outcomes.
-					<br>Learn how Anexcon assists businesses in building a culture of continuous feedback and development. <br>
+					</p><p style="margin-top:6px">Learn how Anexcon assists businesses in building a culture of continuous feedback and development. </p><p>
 					Find out how Anexcon's performance management platforms differ from other similar platforms on the market.</p>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 								<div class="icon mr-3">
 									<i class="fa fa-address-book"></i>
 								</div>
-								<div class="text_manage">
+								<div style="margin-top:15px" class="text_manage">
 									<div class="text_head d-flex">
 										<h4>Employee Self-Service <i class="fa fa-angle-right"></i></h4>
 									</div>
@@ -82,7 +82,7 @@
 								<div class="icon mr-3">
 									<i class="fa fa-calendar"></i>
 								</div>
-								<div class="text_manage">
+								<div style="margin-top:15px" class="text_manage">
 									<div class="text_head d-flex">
 										<h4>Time and Attendance <i class="fa fa-angle-right"></i></h4>
 									</div>
@@ -97,7 +97,7 @@
 								<div class="icon mr-3">
 									<i class="fa fa-group"></i>
 								</div>
-								<div class="text_manage">
+								<div style="margin-top:15px" class="text_manage">
 									<div class="text_head d-flex">
 										<h4>Performance Management <i class="fa fa-angle-right"></i></h4>
 									</div>
@@ -114,7 +114,7 @@
 								<div class="icon mr-3">
 									<i class="fa fa-bar-chart"></i>
 								</div>
-								<div class="text_manage">
+								<div style="margin-top:15px" class="text_manage">
 									<div class="text_head d-flex">
 										<h4>Analytics and Reporting <i class="fa fa-angle-right"></i></h4>
 									</div>
@@ -124,12 +124,12 @@
 								</div>
 							</div>
 						</div>
-						<div class="text_imge mb-4">
+						<div style="margin-top:40px" class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
 									<i class="fa fa-briefcase"></i>
 								</div>
-								<div class="text_manage">
+								<div style="margin-top:15px" class="text_manage">
 									<div class="text_head d-flex">
 										<h4>Recruitment and Applicant Tracking <i class="fa fa-angle-right"></i></h4>
 									</div>
@@ -139,12 +139,12 @@
 								</div>
 							</div>
 						</div>
-						<div class="text_imge mb-4">
+						<div style="margin-top:20px" class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
 									<i class="fa fa-folder-open"></i>
 								</div>
-								<div class="text_manage">
+								<div style="margin-top:15px" class="text_manage">
 									<div class="text_head d-flex">
 										<h4>Payroll <i class="fa fa-angle-right"></i></h4>
 									</div>
