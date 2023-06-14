@@ -19,13 +19,13 @@
                     <div class="col-lg-7">
                         <div class="navbar-brand d-flex align-items-center">
                             <div class="circle">
-                                <img src="Wallet.png" alt="" class="image-inside-circle">
+                                <img src="Mask group (1).png" alt="" class="image-inside-circle">
                             </div>
-                            <span class="ms-2" style="font-size: 27px; font-weight: 500; line-height: 32px; letter-spacing: 0em; text-align: left;">Payroll</span>
+                            <span class="ms-2" style="font-size: 27px; font-weight: 500; line-height: 32px; letter-spacing: 0em; text-align: left;">Performance Management</span>
                         </div>
-                        <p style="font-style: normal;font-weight: 500; font-size: 60px; line-height: 72px;">Mastering Payroll Management: Optimizing Your Business's Payroll Processes</p>
+                        <p style="font-style: normal;font-weight: 500; font-size: 60px; line-height: 72px;">Maximizing Business Efficiency: The Power of Effective Management</p>
                         <p class="lead" style="color: #B0B0B0;">
-                        Mastering Payroll Management provides essential information and strategies for businesses to optimize their payroll processes. Complete payroll calculations, tax compliance, and automation to improve accuracy and efficiency.
+                        Explores the principles and strategies that can help businesses improve their management practices and optimize their operations for increased productivity and success.
                         </p>
                         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
                             <button type="button" class="btn  btn-lg px-4 me-md-2" style="background: #10377A;
@@ -62,7 +62,7 @@
                     </div>
                 </div>
             </div>
-              <section class="snapshot_tabs pb-5">
+            <section class="snapshot_tabs pb-5">
 	<div class="container mt-5">
 	  <div class="row">
 	    <div class="col-md-12 ml-auto col-xl-12 mr-auto">
@@ -72,22 +72,22 @@
 	          <ul class="nav nav-tabs justify-content-center" role="tablist">
 	            <li class="nav-item">
 	              <a class="nav-link active" data-toggle="tab" href="#employee" role="tab">
-	                Tasks
+                Salaries
 	              </a>
 	            </li>
 	            <li class="nav-item">
 	              <a class="nav-link" data-toggle="tab" href="#reporting" role="tab">
-	                Assignee
+	                Taxes
 	              </a>
 	            </li>
 	            <li class="nav-item">
 	              <a class="nav-link" data-toggle="tab" href="#time" role="tab">
-	                Updates
+	                Disbursement
 	              </a>
 	            </li>
 	            <li class="nav-item">
 	              <a class="nav-link" data-toggle="tab" href="#recruitment" role="tab">
-	                Department
+                Bank Integration
 	              </a>
 	            </li>
 	          </ul>
@@ -99,14 +99,14 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Payroll</h2>
+	              			<h2>Performance Management</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Tasks involved in processing payroll, such as calculating employee hours, deductions, taxes, processing payroll checks, issuing direct deposits, and calculating and filing payroll taxes. </p>
+	              			<p>Calculating salaries based on hours worked, adjusting for overtime, and ensuring that employees are paid accurately and on time.  </p>
 	              		</div>
 	              		<div class="tab_review">
 	              					<div class="riviw_main">
-	              						<p class="revie_para">In addition to the tasks related to processing payroll, it also includes tasks related to managing employee benefits and time off requests. For example, tasks related to tracking employee vacation days, sick days, and other types of paid time off may be included under this subheading. This allows businesses to manage all aspects of employee compensation and benefits in one central location.</p>
+	              						<p class="revie_para">In addition to automating salary management, businesses may also use performance-based pay structures to incentivize employees to improve their performance. Performance-based pay can motivate employees to improve their skills and work harder, leading to improved business results. However, it requires careful management and measurement to ensure that it is implemented fairly and effectively.</p>
 	              					</div>
                           <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
                           <a href="#" style="font-style: normal; font-weight: 500; font-size: 20px; color: #A4C5F4; text-decoration: none; ">
@@ -127,14 +127,14 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Payroll</h2>
+	              			<h2>Performance Management</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Designate specific individuals or teams to handle payroll processing and ensure that it is done consistently and efficiently.  </p>
+	              			<p>Calculating and withholding federal and state taxes, ensuring compliance with tax laws and regulations, and filing tax returns.</p>
 	              		</div>
 	              		<div class="tab_review">
 	              					<div class="riviw_main">
-	              						<p class="revie_para">In addition to designating individuals or teams responsible for processing payroll, you can also allow for delegation of tasks and responsibilities within the payroll processing workflow. For example, a business may assign different individuals to handle different tasks within the payroll process, such as one person responsible for verifying employee hours and another responsible for calculating and processing tax deductions. This can help ensure that each task is done accurately and efficiently, and can also help streamline the overall payroll process.</p>
+	              						<p class="revie_para">In addition, this feature can also help businesses stay up-to-date with changing tax laws and regulations. Tax laws can be complex and may vary by state or municipality, so having a system in place to manage taxes can help businesses avoid mistakes and stay compliant.</p>
 	              					</div>
                           <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
                           <a href="#" style="font-style: normal; font-weight: 500; font-size: 20px; color: #A4C5F4; text-decoration: none; ">
@@ -154,17 +154,17 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Payroll</h2>
+	              			<h2>Performance Management</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Allows businesses to stay up-to-date on changes related to payroll laws and regulations. To be aware of any changes impacting their payroll processing and can make adjustments as needed.</p>
+	              			<p>Scheduling and processing payments, tracking payment histories, and ensuring that payments are made accurately and on time. </p>
 	              		</div>
 	              		<div class="tab_review">
 	              					<div class="riviw_main">
-	              						<p class="revie_para">In addition to keeping businesses informed of payroll law and regulation changes, the updates refers to the feature that allows businesses to keep track of any updates or changes made to an employee's payroll information. For example, if an employee receives a raise or changes their tax withholding status, this information can be updated within the payroll system. </p>
+	              						<p class="revie_para">Helps businesses maintain financial security by implementing strong internal controls and fraud prevention measures. This feature can include secure payment methods and user access controls, ensuring that only authorized personnel have access to sensitive payment information. By implementing these measures, businesses can prevent fraudulent activities and maintain the trust of their stakeholders.</p>
 	              					</div>
                           <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-                          <a href="#" style="font-style: normal; font-weight: 500; font-size: 20px; color: #A4C5F4; text-decoration: none;">
+                          <a href="#" style="font-style: normal; font-weight: 500; font-size: 20px; color: #A4C5F4; text-decoration: none; ">
                             Get your copy now >
                           </a>
                         </div>
@@ -181,14 +181,14 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Payroll</h2>
+	              			<h2>Performance Management</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Organize their payroll processing and ensure that it is handled by the appropriate individuals or teams.</p>
+	              			<p>Connecting payroll systems with bank accounts, managing bank transactions, and ensuring that payroll-related payments are processed accurately and on time. </p>
 	              		</div>
 	              		<div class="tab_review">
 	              					<div class="riviw_main">
-	              						<p class="revie_para">In addition to assigning responsibilities, the Department subheading under Payroll can also allow businesses to track payroll expenses by department. This feature can help businesses better understand their payroll costs and make informed decisions about staffing and budgeting. For example, if a business notices that one department has significantly higher payroll expenses than others, they may want to investigate why and determine if any adjustments need to be made to improve efficiency or reduce costs.</p>
+	              						<p class="revie_para">It allows businesses to streamline their payroll processing and financial management. By integrating payroll systems with bank accounts, businesses can automate payment processes and ensure that payments are processed accurately and on time. This feature also allows businesses to manage bank transactions efficiently, reducing the time and effort required for manual data entry and reconciliation.</p>
 	              					</div>
                           <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
                           <a href="#" style="font-style: normal; font-weight: 500; font-size: 20px; color: #A4C5F4; text-decoration: none; ">
