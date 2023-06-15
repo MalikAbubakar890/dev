@@ -143,29 +143,29 @@ header{
 }
 .todo-anim{
     position: absolute;
-    width: 295px;
-    height: 180px;
+    width: 320px;
+    height: 191px;
     left: 121px;
     top: 137px;
 }
-.multiple-feat{
-    position: absolute;
-    width: 220px;
-    height: 205px;
-    left: 276px;
-    top: 339px;
-}
 .financial{
     position: absolute;
-    width: 160px;
+    width: 200px;
     height: 154px;
     left: 1250px;
     top: 123px;
 }
+.multiple-feat{
+    position: absolute;
+    width: 300px;
+    height: 253px;
+    left: 276px;
+    top: 339px;
+}
 .team-perfomances{
     position: absolute;
-    width: 269px;
-    height: 192px;
+    width: 300px;
+    height: 167px;
     left: 1117px;
     top: 333px;
 }
@@ -325,19 +325,25 @@ header{
 .text_manage .text_head h4{
     font-family: inherit;
     font-style: normal;
+    font-size: 20.8px;
     font-weight: 500;
-    font-size: 11px;
+    color: #000;
 }
 .image_manage .icon{
-    background: gainsboro;
-    padding: 11px;
+    padding: 10px;
     border-radius: 52px;
     height: 46px;
     width: 45px;
+    background-color: #f0f0f5;
+    display: flex;
+    justify-Content: center;
+    align-items: center;
 }
-.image_manage .icon i{
-    font-size: 27px;
-}
+.icon_self {
+    width: 49px;
+    height: 49px;
+    flex-grow: 0;
+  }
 .text_manage .text_para p{
     font-family: inherit;
     font-style: normal;
@@ -364,7 +370,7 @@ header{
 }
 .invest_head_snap h3{
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 36px;
     line-height: 43px;
 }

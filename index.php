@@ -7,20 +7,20 @@
     <div class="hero-image" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 580px; padding: 100px;">
     	<div class="container-homepage">
 			<div class="todo-anim">
-				<img src="assets/img/hero/todo-animation.png">
+				<img src="assets/img/hero/a1.gif" loop autoplay>
 			</div>
 			<div class="multiple-feat">
-				<img src="assets/img/hero/Multiple-feature.png">
+				<img src="assets/img/hero/c3.gif" loop autoplay>
 			</div>
 			<div class="financial">
-				<img src="assets/img/hero/Financial.png">
+				<img src="assets/img/hero/b2.gif" loop autoplay>
 			</div>
 			<div class="team-perfomances">
-				<img src="assets/img/hero/team-perfomances.png">
+				<img src="assets/img/hero/d4.gif" loop autoplay>
 			</div>
 	    	<div class="text-hero">
-				<h2>Empower</h2>
-				<h5>Your Work Force With Next Generation</h5>
+				<h2>Empower Your</h2>
+				<h5> Work Force With Next Generation</h5>
 				<h3>Performance Management</h3>
 				<a href="javascript:void(0)" class="btn btn-info">Learn More</a>
 			</div>
@@ -28,34 +28,50 @@
     </div>
     <p class="anexcon_unlock">Anexcon unlocks the potential of your workforce, just as it has done for thousands of other organizations</p>
 </div>
+
 <div class="container-fluid">
-	<section class="customer-logos slider">
-	  <div class="slide"><img src="assets/img/client/tide.png"></div>
-	  <div class="slide"><img src="assets/img/client/robinhood.png"></div>
-	  <div class="slide"><img src="assets/img/client/deciem.png"></div>
-	  <div class="slide"><img src="assets/img/client/superside.png"></div>
-	  <div class="slide"><img src="assets/img/client/Alltrails-logo.png"></div>
-	  <div class="slide"><img src="assets/img/client/green-state.png"></div>
-	  <div class="slide"><img src="assets/img/client/gusto.png"></div>
-	  <div class="slide"><img src="assets/img/client/article.png"></div>
-	  <div class="slide"><img src="assets/img/client/tide.png"></div>
-	  <div class="slide"><img src="assets/img/client/robinhood.png"></div>
-	  <div class="slide"><img src="assets/img/client/deciem.png"></div>
-	  <div class="slide"><img src="assets/img/client/superside.png"></div>
-	  <div class="slide"><img src="assets/img/client/Alltrails-logo.png"></div>
-	  <div class="slide"><img src="assets/img/client/green-state.png"></div>
-	  <div class="slide"><img src="assets/img/client/gusto.png"></div>
-	  <div class="slide"><img src="assets/img/client/article.png"></div>
-	</section>
+    <section class="customer-logos slider">
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/tide.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/robinhood.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/deciem.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img  class="px-3  mb-3" src="assets/img/client/superside.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/Alltrails-logo.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/green-state.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/gusto.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/article.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/tide.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/robinhood.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/deciem.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/superside.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/Alltrails-logo.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/green-state.png"></div>
+        <div class="slide col-md-2 px-3  mb-3" ><img class="px-3  mb-3" src="assets/img/client/gusto.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/article.png"></div>
+    </section>
 </div>
+
+<style>
+    .customer-logos .slide {
+        margin: 10px; /* Adjust the margin value according to your needs */
+    }
+
+    /* Add media queries for responsiveness */
+    @media (max-width: 768px) {
+        .customer-logos .slide {
+            margin: 5px; /* Adjust the margin value for smaller screens */
+        }
+    }
+</style>
+
+
 <section class="perfomance_managment pb-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
 				<div class="content_manage">
 					<h2>The Ultimate Performance Management Platform for Employee Success</h2>
-					<p>Discover how organizations utilize Anexcon to enhance performance and foster employee engagement for optimal outcomes.
-					<br>Learn how Anexcon assists businesses in building a culture of continuous feedback and development. <br>
+					<p style="margin-top:15px">Discover how organizations utilize Anexcon to enhance performance and foster employee engagement for optimal outcomes.
+					</p><p style="margin-top:6px">Learn how Anexcon assists businesses in building a culture of continuous feedback and development. </p><p>
 					Find out how Anexcon's performance management platforms differ from other similar platforms on the market.</p>
 				</div>
 			</div>
@@ -65,7 +81,7 @@
 						<div class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
-									<i class="fa fa-address-book"></i>
+									<img class="icon_self" src="assets/img/icons/Employee-self-service.svg">
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
@@ -80,7 +96,7 @@
 						<div class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
-									<i class="fa fa-calendar"></i>
+								<img class="icon_self" src="assets/img/icons/Time and Attendance.svg">
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
@@ -95,7 +111,7 @@
 						<div class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
-									<i class="fa fa-group"></i>
+								<img class="icon_self" src="assets/img/icons/Perfomance Management.svg">
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
@@ -112,7 +128,7 @@
 						<div class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
-									<i class="fa fa-bar-chart"></i>
+								<img class="icon_self" src="assets/img/icons/Analytics and reporting.svg">
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
@@ -124,10 +140,10 @@
 								</div>
 							</div>
 						</div>
-						<div class="text_imge mb-4">
+						<div style="margin-top:40px" class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
-									<i class="fa fa-briefcase"></i>
+								<img class="icon_self" src="assets/img/icons/Recruitment and Applicant.svg">
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
@@ -139,10 +155,10 @@
 								</div>
 							</div>
 						</div>
-						<div class="text_imge mb-4">
+						<div style="margin-top:20px" class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
-									<i class="fa fa-folder-open"></i>
+								<img class="icon_self" src="assets/img/icons/Payroll.svg">
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
@@ -239,43 +255,33 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Employee Self Service that employee low</h2>
+	              			<h2>Empower employees with user-friendly self-service technology</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Vitik presat pubiras. Hegt Dan Berg dibelt. Besade välfärdsbrott. </p>
+	              			<p>Enable employees to manage their HR tasks easily and efficiently with intuitive self-service technology. </p>
 	              		</div>
 	              		<div class="tab_review">
 	              			<div class="row">
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Request</h4>
+	              						<p class="revie_para">Request time off, equipment, travel, or other items from their employer.</p>
+	              					</div>
+	              				</div>
+								  <div class="col-md-6">
+	              					<div class="riviw_main">
+	              						<h4 class="revie_head">Leave track</h4>
+	              						<p class="revie_para">Track leave balances and request time off for vacation, sick days, or other types of leave. </p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Status</h4>
+	              						<p class="revie_para">View the status of their requests, such as time off approval. </p>
 	              					</div>
 	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
+	              				
+	              				
 	              			</div>
 	              		</div>
 	              	</div>
@@ -290,43 +296,33 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Employee Self Service that employee low</h2>
+	              			<h2>Unlocking Business Intelligence: The Power of Analytics and Reporting</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Vitik presat pubiras. Hegt Dan Berg dibelt. Besade välfärdsbrott. </p>
+	              			<p>Leverage analytics and reporting to gain insights that can help businesses make informed and data-driven decisions.  </p>
 	              		</div>
 	              		<div class="tab_review">
 	              			<div class="row">
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Tasks</h4>
+	              						<p class="revie_para">Analyze and visualize data related to various aspects of their operations, such as sales, marketing, and finance.</p>
+	              					</div>
+	              				</div>
+								  <div class="col-md-6">
+	              					<div class="riviw_main">
+	              						<h4 class="revie_head">Payment Reports</h4>
+	              						<p class="revie_para">Track payments made and received, such as invoices, expenses, and payroll.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Analytics</h4>
+	              						<p class="revie_para">Analyze and visualize data related to various aspects of their operations, such as sales.</p>
 	              					</div>
 	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
+	              				
+
 	              			</div>
 	              		</div>
 	              	</div>
@@ -341,43 +337,33 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Employee Self Service that employee low</h2>
+	              			<h2>Efficient Time and Attendance Management for Enhanced Productivity</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Vitik presat pubiras. Hegt Dan Berg dibelt. Besade välfärdsbrott. </p>
+	              			<p>Right tools and processes in place, businesses can accurately track employee work hours, reduce errors and discrepancies.</p>
 	              		</div>
 	              		<div class="tab_review">
 	              			<div class="row">
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Check In / Check Out</h4>
+	              						<p class="revie_para">Employees clock in and out of work electronically, typically using a time clock or mobile app.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Payroll Alignment</h4>
+	              						<p class="revie_para">Businesses align their payroll process with the time and attendance data.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Attendance Overview</h4>
+	              						<p class="revie_para">Overview of an employee's attendance record, including the number of days worked, absences, and any other attendance-related data. </p>
 	              					</div>
 	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
+	              				
+	              				
 	              			</div>
 	              		</div>
 	              	</div>
@@ -392,41 +378,36 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Employee Self Service that employee low</h2>
+	              			<h2>Streamline Your Recruitment Process: The Ultimate Guide to Hiring Top Talent</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Vitik presat pubiras. Hegt Dan Berg dibelt. Besade välfärdsbrott. </p>
+	              			<p>Strategies and tips for businesses to optimize their recruitment process</p>
 	              		</div>
 	              		<div class="tab_review">
 	              			<div class="row">
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Actions</h4>
+	              						<p class="revie_para">Taken by recruiters or hiring managers during the recruitment process.</p>
+	              					</div>
+	              				</div>
+								  <div class="col-md-6">
+	              					<div class="riviw_main">
+	              						<h4 class="revie_head">Notification</h4>
+	              						<p class="revie_para">Helps keep candidates informed and engaged throughout the process</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Stages</h4>
+	              						<p class="revie_para">Breaking down the recruitment process into stages.</p>
 	              					</div>
 	              				</div>
+	              				
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Job Form</h4>
+	              						<p class="revie_para">Collect necessary information from candidates, such as their resume, cover letter.</p>
 	              					</div>
 	              				</div>
 	              			</div>
@@ -443,43 +424,38 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Employee Self Service that employee low</h2>
+	              			<h2>Mastering Payroll Management: Optimizing Your Business's Payroll Processes</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Vitik presat pubiras. Hegt Dan Berg dibelt. Besade välfärdsbrott. </p>
+	              			<p>Mastering Payroll Management provides essential information and strategies for businesses</p>
 	              		</div>
 	              		<div class="tab_review">
 	              			<div class="row">
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Tasks</h4>
+	              						<p class="revie_para">Tasks involved in processing payroll, such as calculating employee hours</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Updates</h4>
+	              						<p class="revie_para">Allows businesses to stay up-to-date on changes related to payroll laws and regulations.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Assignee</h4>
+	              						<p class="revie_para">Designate specific individuals or teams to handle payroll processing.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Department</h4>
+	              						<p class="revie_para">Organize their payroll processing.</p>
 	              					</div>
 	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
+	              				
 	              			</div>
 	              		</div>
 	              	</div>
@@ -494,43 +470,38 @@
 	              <div class="row">
 	              	<div class="col-md-6 text_tabs">
 	              		<div class="tab_head">
-	              			<h2>Employee Self Service that employee low</h2>
+	              			<h2>Maximizing Business Efficiency: The Power of Effective Management</h2>
 	              		</div>
 	              		<div class="tab_para">
-	              			<p>Vitik presat pubiras. Hegt Dan Berg dibelt. Besade välfärdsbrott. </p>
+	              			<p>Explores the principles and strategies that can help businesses improve their management practices.</p>
 	              		</div>
 	              		<div class="tab_review">
 	              			<div class="row">
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Salaries</h4>
+	              						<p class="revie_para">Calculating salaries based on hours worked and adjusting for overtime.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Disbursement</h4>
+	              						<p class="revie_para">Scheduling and processing payments, tracking payment histories.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Taxes</h4>
+	              						<p class="revie_para">Calculating and withholding federal and state taxes.</p>
 	              					</div>
 	              				</div>
 	              				<div class="col-md-6">
 	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
+	              						<h4 class="revie_head">Bank Integration</h4>
+	              						<p class="revie_para">Connecting payroll systems with bank accounts, managing bank transactions.</p>
 	              					</div>
 	              				</div>
-	              				<div class="col-md-6">
-	              					<div class="riviw_main">
-	              						<h4 class="revie_head">Review</h4>
-	              						<p class="revie_para">Bedaska pungen. Patrik Eklund difåda. Antepånde antett.</p>
-	              					</div>
-	              				</div>
+	              				
 	              			</div>
 	              		</div>
 	              	</div>
