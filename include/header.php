@@ -243,7 +243,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -260,7 +260,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -278,7 +278,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -295,7 +295,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -313,7 +313,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -330,7 +330,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -348,7 +348,7 @@
 
 
                     </div>
-                    <div style="margin-left:1px; margin-top:-10px" class="row">
+                    <div style="margin-left:1px; margin-top:-5px" class="row">
                       <div class="media text-muted pt-3">
 
                         <div class="circle">
@@ -391,8 +391,8 @@
                       font-size: 12px;
                       line-height: 14px;
 
-                      color: #000000; margin-top: 17px; margin-left:-15px">Role</p>
-                    <div class="row ">
+                      color: #000000; margin-top: 47px; margin-left:-15px">Role</p>
+                    <div class="row">
 
                       <ul class="list-unstyled">
                         <li class="list-item">Chief&nbsp;Executive&nbsp;Officer</li>
