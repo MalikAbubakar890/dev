@@ -28,26 +28,42 @@
     </div>
     <p class="anexcon_unlock">Anexcon unlocks the potential of your workforce, just as it has done for thousands of other organizations</p>
 </div>
+
 <div class="container-fluid">
-	<section class="customer-logos slider">
-	  <div class="slide"><img src="assets/img/client/tide.png"></div>
-	  <div class="slide"><img src="assets/img/client/robinhood.png"></div>
-	  <div class="slide"><img src="assets/img/client/deciem.png"></div>
-	  <div class="slide"><img src="assets/img/client/superside.png"></div>
-	  <div class="slide"><img src="assets/img/client/Alltrails-logo.png"></div>
-	  <div class="slide"><img src="assets/img/client/green-state.png"></div>
-	  <div class="slide"><img src="assets/img/client/gusto.png"></div>
-	  <div class="slide"><img src="assets/img/client/article.png"></div>
-	  <div class="slide"><img src="assets/img/client/tide.png"></div>
-	  <div class="slide"><img src="assets/img/client/robinhood.png"></div>
-	  <div class="slide"><img src="assets/img/client/deciem.png"></div>
-	  <div class="slide"><img src="assets/img/client/superside.png"></div>
-	  <div class="slide"><img src="assets/img/client/Alltrails-logo.png"></div>
-	  <div class="slide"><img src="assets/img/client/green-state.png"></div>
-	  <div class="slide"><img src="assets/img/client/gusto.png"></div>
-	  <div class="slide"><img src="assets/img/client/article.png"></div>
-	</section>
+    <section class="customer-logos slider">
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/tide.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/robinhood.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/deciem.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img  class="px-3  mb-3" src="assets/img/client/superside.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/Alltrails-logo.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/green-state.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/gusto.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/article.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/tide.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/robinhood.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/deciem.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/superside.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/Alltrails-logo.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/green-state.png"></div>
+        <div class="slide col-md-2 px-3  mb-3" ><img class="px-3  mb-3" src="assets/img/client/gusto.png"></div>
+        <div class="slide col-md-2 px-3  mb-3"><img class="px-3  mb-3" src="assets/img/client/article.png"></div>
+    </section>
 </div>
+
+<style>
+    .customer-logos .slide {
+        margin: 10px; /* Adjust the margin value according to your needs */
+    }
+
+    /* Add media queries for responsiveness */
+    @media (max-width: 768px) {
+        .customer-logos .slide {
+            margin: 5px; /* Adjust the margin value for smaller screens */
+        }
+    }
+</style>
+
+
 <section class="perfomance_managment pb-5">
 	<div class="container">
 		<div class="row">

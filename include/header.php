@@ -552,87 +552,19 @@
               <!--  /.container  -->
             </div>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
+          <li class="nav-item ">
+            <a class="nav-link " href="#" 
+              aria-haspopup="false" aria-expanded="false">
               Pricing
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-4">
-                    <span class="text-uppercase text-white">Category 4</span>
-                    <ul class="nav flex-column">
-                      <li class="nav-item">
-                        <a class="nav-link active" href="#">Active</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <!-- /.col-md-4  -->
-                  <div class="col-md-4">
-                    <ul class="nav flex-column">
-                      <li class="nav-item">
-                        <a class="nav-link active" href="#">Active</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <!--  /.container  -->
-            </div>
+          
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
+          <li class="nav-item ">
+            <a class="nav-link " href="#"
+              aria-haspopup="false" aria-expanded="false">
               About
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-4">
-                    <span class="text-uppercase text-white">Category 5</span>
-                    <ul class="nav flex-column">
-                      <li class="nav-item">
-                        <a class="nav-link active" href="#">Active</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <!-- /.col-md-4  -->
-                  <div class="col-md-4">
-                    <ul class="nav flex-column">
-                      <li class="nav-item">
-                        <a class="nav-link active" href="#">Active</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link item</a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <!--  /.container  -->
-            </div>
+            
           </li>
         </ul>
         <div class="form-inline my-2 my-lg-0">
