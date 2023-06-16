@@ -249,7 +249,7 @@
 	          </ul>
 	        </div>
 	      <div class="card">
-	        <div class="card-body" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 580px; padding: 50px; border-radius: 20px;">
+	        <div class="card-body" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 580px; padding: 50px; border-radius: 5px;">
 	          <div class="tab-content text-center">
 	            <div class="tab-pane active" id="employee" role="tabpanel">
 	              <div class="row">

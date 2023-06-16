@@ -552,17 +552,17 @@ header{
     color: #FFFFFF;
 }
 
-.nav-link.active::after {
+/*.nav-link.active::after {
     content: "";
     position: absolute;
-    bottom: -3px; /* Adjust the value to control the length of the underline */
+    bottom: -3px; 
     left: 20%;
     width: 60%;
     height: 2px;
     background-color: #10377A;
     border-radius: 2px;
     
-  }
+  }*/
 
 .card {
     border: 0;
