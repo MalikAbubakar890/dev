@@ -394,6 +394,7 @@ header{
 .nav-tabs .nav-link {
     margin-bottom:0;
     border: none;
+    margin-right: 250px;
   }
 
 .card a {
@@ -506,7 +507,7 @@ header{
 .nav-tabs>.nav-item>.nav-link {
     color: #888888;
     margin: 0;
-    margin-right: 5px;
+    margin-right: 150px;
     background-color: transparent;
     border: 1px solid transparent;
     border-radius: 30px;
@@ -514,6 +515,8 @@ header{
     font-weight: bold;
     padding: 11px 12px;
     line-height: 1.5;
+    display: flex;
+    gap: 10px;
 }
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active 
 .nav-tabs>.nav-item>.nav-link:hover {
@@ -524,6 +527,7 @@ header{
     border-bottom: 3px solid #10377A;
     border-radius: 0;
     color: #10377A;
+    margin-right: 190px;
 }
 .nav-tabs>.nav-item>.nav-link.active i {
    /* border-bottom: 1px solid #627fba;

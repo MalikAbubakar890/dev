@@ -71,17 +71,17 @@
 	        <div class="card-header">
 	          <ul class="nav nav-tabs justify-content-center" role="tablist">
 	            <li class="nav-item">
-	              <a class="nav-link active" data-toggle="tab" href="#employee" role="tab">
+	              <a class="nav-link active" data-toggle="tab" href="#employee" role="tab" margin-right: 190px>
 	                Tasks
 	              </a>
 	            </li>
 	            <li class="nav-item">
-	              <a class="nav-link" data-toggle="tab" href="#reporting" role="tab">
+	              <a class="nav-link" data-toggle="tab" href="#reporting" role="tab" margin-right: 190px>
 	                Assignee
 	              </a>
 	            </li>
 	            <li class="nav-item">
-	              <a class="nav-link" data-toggle="tab" href="#time" role="tab">
+	              <a class="nav-link" data-toggle="tab" href="#time" role="tab" margin-right: 190px>
 	                Updates
 	              </a>
 	            </li>
