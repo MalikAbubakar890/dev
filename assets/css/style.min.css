@@ -354,6 +354,7 @@ header{
 }
 .blue_img{
     border-radius: 20px;
+    height:654px
 }
 .snapshot_head h5{
     font-weight: 500;
@@ -363,9 +364,8 @@ header{
 .snapshot_para p{
     font-style: normal;
     font-weight: 400;
-    font-size: 29px;
+    font-size: 30px;
     line-height: 43px;
-    width: 78%;
     margin: auto;
 }
 .invest_head_snap h3{
@@ -719,23 +719,23 @@ footer p a{
 .smooth_head h2{
     font-style: normal;
     font-weight: 400;
-    font-size: 39px;
+    font-size: 42px;
     color: #FFFFFF;
 }
 
 .smooth_link a{
     font-style: normal;
     font-weight: 500;
-    font-size: 23px;
+    font-size: 34px;
     color: #F5F4F7;
 }
 .cloud{
     position: relative;
-    width: 70px;
+    width: 120px;
     background: white;
     border-radius: 63px;
     padding: 17px;
-    height: 70px;
+    height: 120px;
     right: 21px;
     top: 43px;
 }
@@ -789,8 +789,8 @@ footer p a{
     left: 290px;
 }
 .smooth_logo img{
-    width: 38px;
-    height: 38px;
+    width: 80px;
+    height: 80px;
 }
 .smooth_logo2 img{
     width: 72px;

@@ -140,7 +140,7 @@
 								</div>
 							</div>
 						</div>
-						<div style="margin-top:40px" class="text_imge mb-4">
+						<div style="margin-top:30px" class="text_imge mb-4">
 							<div class="image_manage d-flex">
 								<div class="icon mr-3">
 								<img class="icon_self" src="assets/img/icons/Recruitment and Applicant.svg">
@@ -162,7 +162,7 @@
 								</div>
 								<div class="text_manage">
 									<div class="text_head d-flex">
-										<h4>Payroll <i class="fa fa-angle-right"></i></h4>
+										<h4 style="margin-top:10px">Payroll <i class="fa fa-angle-right"></i></h4>
 									</div>
 									<div class="text_para">
 										<p>Effortlessly manage payroll with integrated payroll software</p>
@@ -200,7 +200,7 @@
 						<h3>Invest in your employees' well-being for a thriving business</h3>
 					</div>
 					<div class="snapshot_para text-center pt-3">
-						<p>Take care of your employees, and they'll take care of your business. It's as simple as that. Healthy & Engaged employees are your top  competitive advantage.</p>
+						<p>Take care of your employees, and they'll take care of your business.<br> It's as simple as that. Healthy & Engaged employees are your top<br> competitive advantage.</p>
 					</div>
 				</div>
 			</div>
@@ -280,8 +280,6 @@
 	              						<p class="revie_para">View the status of their requests, such as time off approval. </p>
 	              					</div>
 	              				</div>
-	              				
-	              				
 	              			</div>
 	              		</div>
 	              	</div>
@@ -523,7 +521,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<div class="sooth_integration" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 308px; padding: 29px; border-radius: 20px;">
+				<div class="sooth_integration" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 451px; padding: 29px; border-radius: 20px;">
 					<div class="smooth_head">
 						<h2>Smooth integration with the software you love using</h2>
 					</div>
@@ -547,7 +545,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div class="sooth_integration" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 308px; padding: 29px; border-radius: 20px;">
+				<div class="sooth_integration" style="background-image: url('assets/img/blue-texute.png');background-repeat: no-repeat; background-size: cover; height: 451px; padding: 29px; border-radius: 20px;">
 					<div class="smooth_head">
 						<h2>24/7 Customer Support that supports your success</h2>
 					</div>
