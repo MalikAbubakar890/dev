@@ -3,6 +3,14 @@
 <?php include 'include/head.php';?>
 <body>
 <?php include 'include/header.php';?>
+<style type="text/css">
+	.nav-tabs {
+    border: 0;
+    border-bottom: 1px solid #D9D9D9;
+    padding: 0;
+    justify-content: space-around !important;
+}
+</style>
 <main role="main">
             <div class="container col-xxl-8 px-4 py-5">
                 <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
@@ -69,7 +77,7 @@
 	      <!-- Nav tabs -->
 
 	        <div class="card-header">
-	          <ul class="nav nav-tabs justify-content-center" role="tablist">
+	          <ul class="nav nav-tabs" role="tablist">
 	            <li class="nav-item">
 	              <a class="nav-link active" data-toggle="tab" href="#employee" role="tab">
 	                Actions
