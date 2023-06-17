@@ -141,44 +141,104 @@ img {
 header{
     height: 85px;
 }
-.todo-anim{
+
+/* .todo-anim {
     position: absolute;
-    width: 320px;
+    width: 306px;
     height: 191px;
     left: 121px;
     top: 137px;
+} */
+
+/* Media Query for Mobile Devices */
+
+
+/* Media Query for iPads and Tablets */
+/* @media (min-width: 481px) and (max-width: 768px) {
+    .todo-anim {
+        display: none;
+    }
 }
-.financial{
+
+@media (max-width: 480px) {
+    .todo-anim {
+        display: none;
+    }
+} */
+
+
+/* Media Query for Small Screens and Laptops */
+/* @media (min-width: 769px) and (max-width: 1024px) {
+    .todo-anim {
+    
+        display: none;
+      ;
+    }
+} */
+
+/* Media Query for Desktops and Large Screens */
+/* @media (min-width: 1025px) {
+    .todo-anim {
+    position: absolute;
+    width: 306px;
+    height: 191px;
+    left: 0px;
+    top: 137px;
+    }
+} */
+
+
+  
+.todo-anim {
+    position: absolute;
+    width: 306px;
+    height: 191px;
+    left: -121px;
+    top: -80px;
+  }
+  
+  .financial {
     position: absolute;
     width: 200px;
     height: 154px;
-    left: 1250px;
-    top: 123px;
-}
-.multiple-feat{
+    right: 10px;
+    top: 0px;
+  }
+  
+  .multiple-feat {
     position: absolute;
     width: 300px;
     height: 253px;
-    left: 276px;
-    top: 339px;
-}
-.team-perfomances{
+    left: 56px;
+    top: 169px;
+  }
+  
+  .team-perfomances {
     position: absolute;
     width: 300px;
     height: 167px;
     left: 1117px;
-    top: 333px;
-}
-.anexcon_unlock{
-    text-align: center;
-    font-family: inherit;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 21px;
-    line-height: 31px;
-    color: #000000;
-}
-
+    top: 223px;
+  }
+  
+  .text-hero {
+    position: relative;
+    z-index: 1;
+  }
+  
+  /* Media Query for Mobile Devices */
+  @media (max-width: 480px) {
+    .container1 {
+      padding: 20px;
+    }
+    
+    .todo-anim,
+    .financial,
+    .multiple-feat,
+    .team-perfomances {
+      display: none;
+    }
+  }
 
 
 
