@@ -525,21 +525,27 @@
 					<div class="smooth_head">
 						<h2>Smooth integration with the software you love using</h2>
 					</div>
-					<div class="smooth_link mt-4">
+					<div class="smooth_link ">
 						<a href="javascript:void(0)">Discover our integration <i class="fa fa-angle-right"></i></a>
 					</div>
 					<div class="smooth_logo d-flex">
 						<div class="cloud">
 							<img src="assets/img/logos/cloud.png">
 						</div>
+                    </div>
+					<div class="smooth_logo2 d-flex">
 						<div class="slack">
 							<img src="assets/img/logos/slack.png">
 						</div>
+                    </div>
+					<div class="smooth_logo3 d-flex">
 						<div class="drive">
 							<img src="assets/img/logos/drive.png">
 						</div>
-						<div class="tesla">
-							<img src="assets/img/logos/drive.png">
+                    </div>
+					<div class="smooth_logo4 d-flex">
+						<div class="team">
+							<img src="assets/img/logos/team_1.png">
 						</div>
 					</div>
 				</div>
@@ -549,13 +555,15 @@
 					<div class="smooth_head">
 						<h2>24/7 Customer Support that supports your success</h2>
 					</div>
-					<div class="smooth_link mt-4">
+					<div class="smooth_link ">
 						<a href="javascript:void(0)">Learn more <i class="fa fa-angle-right"></i></a>
 					</div>
-					<div class="smooth_logo2 d-flex">
+					<div class="smooth_logo5 d-flex">
 						<div class="silver">
 							<img src="assets/img/logos/silver.png">
 						</div>
+                    </div>
+						<div class="smooth_logo6 d-flex">
 						<div class="platform">
 							<img src="assets/img/logos/platform.png">
 						</div>
@@ -592,7 +600,7 @@
 		<div class="bg-gray text-center">
 			<h2 class="take_head">Take care of your employees, and they'll take care of your business.</h2>
 			<p class="take_para">Consider Anexcon's People Management Software</p>
-			<a href="javascript:void(0)" class="btn btn-primary mt-3 take_btn">Request a demo</a>
+			<a style="width: 180px; height: 50px;"href="javascript:void(0)" class="btn btn-primary  take_btn">Request a demo</a>
 		</div>
 	</div>
 </section>
