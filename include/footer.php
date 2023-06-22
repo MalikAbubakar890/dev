@@ -92,6 +92,8 @@
 <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/js/menu.js"></script>
 <script type="text/javascript" src="assets/js/slider.js"></script>
+<script type="text/javascript" src="assets/js/playvideo.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js"></script>
 <script src="assets/js/code.jquery.com_jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="assets/js/cdnjs.cloudflare.com_ajax_libs_slick-carousel_1.6.0_slick.js"></script>
 <script src="https://kit.fontawesome.com/63c142b0a3.js" crossorigin="anonymous"></script>

@@ -76,7 +76,7 @@
 
 
 	<section class="perfomance_managment pb-5">
-		<div class="container">
+		<div class="container container-xxl">
 			<div class="row">
 				<div class="col-md-6">
 					<div class="content_manage">
@@ -194,17 +194,28 @@
 		</div>
 	</section>
 	<section class="empty_box">
-		<div class="container">
-			<div class="blue_background">
-				<div class="row">
-					<div class="col-md-12">
-						<img class="blue_img" src="assets/img/blue-texute.png">
-					</div>
-				</div>
+  <div class="container">
+    <div class="blue_background">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="video-wrapper">
+            <img class="blue_img" src="assets/img/blue-texute.png">
+            <button class="play-button" onclick="playVideo()">
+              <i class="fas fa-play"></i>
+            </button>
+            <div class="video-container">
+              <iframe id="video-player" class="video-player" src="https://www.youtube.com/embed/9nsHOVCIaNU" title="Anexcon Intro" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-			</div>
-		</div>
-	</section>
+
+
+
 	<section class="snapshot pt-5">
 		<div class="container">
 			<div class="blue_background">

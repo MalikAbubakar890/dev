@@ -33,6 +33,12 @@
     --breakpoint-xl: 1200px;
     --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --breakpoint-xxl: 1440px;
 }
 
 *,
@@ -586,13 +592,18 @@ pre code {
 }
 
 .container {
-    width: 100%;
+    max-width: 1440px;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
-    margin-left: auto
-}
-
+    margin-left: auto;
+--container-max-width-sm: 540px;
+  --container-max-width-md: 720px;
+  --container-max-width-lg: 960px;
+  --container-max-width-xl: 1140px;
+  --container-max-width-xxl: 1440px;
+  }
+  
 @media (min-width:576px) {
     .container {
         max-width: 540px
@@ -616,9 +627,14 @@ pre code {
         max-width: 1140px
     }
 }
-
+@media (min-width:1440px) {
+    .container {
+        max-width: 1380px
+    }
+}
 .container-fluid {
     width: 100%;
+  
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -1776,12 +1792,7 @@ pre code {
         max-width: 91.666667%
     }
 
-    .col-xl-12 {
-        -webkit-box-flex: 0;
-        -ms-flex: 0 0 100%;
-        flex: 0 0 100%;
-        max-width: 100%
-    }
+   
 
     .order-xl-first {
         -webkit-box-ordinal-group: 0;
@@ -9939,5 +9950,57 @@ a.text-dark:hover {
         border: 1px solid #ddd !important
     }
 }
+
+
+
+ /* custom code */
+
+ .col-xl-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%
+}
+.col-xxl {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  @media (min-width: 1440px) {
+    .col-xxl {
+      flex-basis: 0;
+      flex-grow: 1;
+      max-width: 100%;
+    }
+  }
+  .mr-xxl {
+    margin-right: 30px !important;
+  }
+  
+  .ml-xxl {
+    margin-left: 30px !important;
+  }
+  @media (min-width: 1440px) {
+    .col-xxl-1 {
+      flex: 0 0 8.333333%;
+      max-width: 8.333333%;
+    }
+    .col-xxl-2 {
+      flex: 0 0 16.666667%;
+      max-width: 16.666667%;
+    }
+    /* Add more column classes as needed */
+    .col-xxl-12 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }
+
+  
+
+
+
 
 /*# sourceMappingURL=bootstrap.min.css.map */
