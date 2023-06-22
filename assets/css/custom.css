@@ -105,3 +105,149 @@
       li{
         color: #000;
       }
+      
+
+
+
+
+
+      .video-wrapper {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+      }
+      
+    
+      
+
+      
+      .play-button {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: transparent;
+        border: none;
+        color: #fff;
+        font-size: 48px;
+        cursor: pointer;
+        transition: transform 0.3s ease-in-out;
+        z-index: 1;
+      }
+      
+      .play-button:hover {
+        transform: translate(-50%, -50%) scale(1.2);
+      }
+      
+      .video-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        
+        height: 100%;
+        display: none;
+      }
+      
+      .video-player {
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+        position: relative;
+        display: inline-block;
+        --aspect-ratio: 16/9;
+        
+        /* -webkit-transform: scaleX(2); 
+        -moz-transform: scaleX(2); */
+      }
+
+     
+      .video-player::after {
+        padding-top: 56.25%; /* 16:9 ratio - divide height by width and multiply by 100 */
+        display: block;
+        content: '';
+      }
+      
+      .video-player>iframe{
+        display:block;
+        width:100%;
+        height:100%;
+        position:absolute;
+        top:0;
+        left:0;
+      }
+
+
+      .nav-link{
+        font-family: Hellix;
+font-size: 22px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+
+
+      }
+
+      .center-button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 234px;
+        height: 73px;
+        border-radius: 7px;
+        margin: 0 auto; /* Add this line */
+      }
+      
+      
+
+   /* .video-container1 {
+    
+        width: 100%;
+        padding-top: 56.25%;
+        height: 0px;
+        position: relative;
+    }
+    
+    .video1{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    } */
+      
+
+   
+      /* .video-wrapper {
+        position: relative;
+        display: inline-block;
+        max-width: 100%;
+        height: auto;
+      }
+      
+      .gif-image {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        cursor: pointer;
+        z-index: 1;
+      }
+      
+      .video-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: none;
+      }
+      
+      .video-player {
+        width: 100%;
+        height: 100%;
+      }
+      
+       */

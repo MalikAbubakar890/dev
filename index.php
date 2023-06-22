@@ -20,19 +20,30 @@
 					<img src="assets/img/hero/d4.gif" loop autoplay>
 				</div>
 				<div class="text-hero">
-					<h2>Empower Your</h2>
-					<h5>Workforce With Next Generation</h5>
+					<h2>Empower</h2>
+					<h5> Your Workforce With Next Generation</h5>
 					<h3>Performance Management</h3>
-					<a href="javascript:void(0)" class="btn btn-info">Learn More</a>
+					<a href="javascript:void(0)" class="btn btn-info center-button">Learn More</a>
+					
+
 				</div>
+				
 			</div>
 
 			
 		</div>
+		
 	</section>
 
-
-
+	
+</div>
+<p style="font-family: Hellix;
+font-size: 26px;
+font-weight: 500;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+">Anexcon unlocks the potential of your workforce, just as it has done for thousands of other organizations</p>
 
 	<div class="container-fluid">
 		<section class="customer-logos slider">
@@ -203,9 +214,14 @@
             <button class="play-button" onclick="playVideo()">
               <i class="fas fa-play"></i>
             </button>
-            <div class="video-container">
-              <iframe id="video-player" class="video-player" src="https://www.youtube.com/embed/9nsHOVCIaNU" title="Anexcon Intro" frameborder="0" allowfullscreen></iframe>
+            <div class="video-container" >
+              <iframe  id="video-player" class="video-player" src="" title="Anexcon Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
+			<!-- <div class="video-container" >
+				<div class="video-container1">
+					<iframe id="video-player"  class="video1" src="" title="Anexcon Intro" frameborder="0" allow="autoplay;  encrypted-media;  picture-in-picture; " allowfullscreen></iframe>
+				</div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -213,9 +229,23 @@
   </div>
 </section>
 
-
-
-
+	<!-- <section class="empty_box">
+  <div class="container">
+    <div class="blue_background">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="video-wrapper">
+            <img class="blue_img" src="assets/img/blue-texute.png">
+            <img class="gif-image" src="assets/img/play-button.gif" onclick="playVideo()">
+            <div class="video-container">
+              <iframe id="video-player" class="video-player" src="" title="Anexcon Intro" frameborder="0" allow=" autoplay; encrypted-media;  picture-in-picture;" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
 	<section class="snapshot pt-5">
 		<div class="container">
 			<div class="blue_background">
@@ -666,6 +696,23 @@
 			</div>
 		</div>
 	</section>
+	<script>
+		window.addEventListener('scroll', function() {
+  var requestDemoButton = document.querySelector('.requestdemo');
+  
+  if (window.scrollY > 0) {
+	requestDemoButton.style.background = '#10377A';
+    requestDemoButton.style.color = 'white';
+  } else {
+    // Reset the styles when scrolling back to the top
+
+	requestDemoButton.style.background = '';
+    requestDemoButton.style.color = '';
+
+  }
+});
+
+	</script>
 
 	<?php include 'include/footer.php';?>
 </body>

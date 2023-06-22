@@ -568,8 +568,8 @@
           </li>
         </ul>
         <div class="form-inline my-2 my-lg-0">
-          <a class="btn  mr-sm-2 signin" href="#">Sign in</a>
-          <a class="btn btn-info  my-2 my-sm-0 requestdemo" href="#">Request Demo</a>
+          <a class="btn  mr-sm-2 signin" href="#" style="font-family: Hellix;font-size: 22px;font-weight: 400; letter-spacing: 0em;">Sign in</a>
+          <a class="btn btn-info  my-2 my-sm-0 requestdemo" href="#" >Request Demo</a>
         </div>
       </div>
     </nav>
